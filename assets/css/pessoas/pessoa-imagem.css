@@ -1,0 +1,13 @@
+.pessoa__imagem{
+    background-size: cover;
+    background-position: center;
+    background-repeat:no-repeat ;
+    border-radius: 110%;
+    height: 300px;
+    margin: 0 auto;
+    width: 300px;
+}
+
+.pessoa__imagem--marcela{
+    background-image: url(../../img/perfil_github-removebg-preview.png);
+}
